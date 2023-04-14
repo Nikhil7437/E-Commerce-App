@@ -46,3 +46,26 @@ Technologies Used
 * HTML
 * CSS
 
+# Snapshots
+
+
+![Screenshot (132)](https://user-images.githubusercontent.com/117345772/232003133-bc7c1217-f9bc-430f-aa54-bf557e096cf4.png)
+
+
+
+![Screenshot (133)](https://user-images.githubusercontent.com/117345772/232003151-8173cdf7-2fea-40f9-a706-03fc3d088d68.png)
+
+
+
+
+
+![Screenshot (134)](https://user-images.githubusercontent.com/117345772/232003161-d88d88ef-6865-4a4e-b3f0-7e1ccb1f47de.png)
+
+
+
+
+![Screenshot (135)](https://user-images.githubusercontent.com/117345772/232003180-131cb8c0-471c-4c29-9d02-69f1675d99b8.png)
+
+
+
+
